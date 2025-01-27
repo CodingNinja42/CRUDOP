@@ -12,6 +12,8 @@ namespace FileUpload.Models
         [Key]
         public int eid { get; set; }
 
+
+
         public string ename { get; set; }
         public string email { get; set; }
         public string epass { get; set; }
